@@ -1,0 +1,19 @@
+CodeGServiceTest.testGenerateBundle:
+  - bundleFiles: Cable's-codeg/Cable's-api.xml
+    moduleName: Cable's-codeg/Cable's-bundle
+    packagePrefix: com.fastjrun.Cable's.
+
+CodeGServiceTest.testGenerateAPI:
+  - bundleFiles: Cable's-codeg/Cable's-api.xml
+    moduleName: Cable's-codeg/Cable's-api
+    packagePrefix: com.fastjrun.Cable's.
+
+CodeGServiceTest.testGenerateClient:
+  - bundleFiles: Cable's-codeg/Cable's-api.xml
+    moduleName: Cable's-codeg/Cable's-client
+    packagePrefix: com.fastjrun.Cable's.
+
+CodeGServiceTest.testGenerateBundleMock:
+  - bundleFiles: Cable's-codeg/Cable's-api.xml
+    moduleName: Cable's-codeg/Cable's-bundle-mock
+    packagePrefix: com.fastjrun.Cable's.

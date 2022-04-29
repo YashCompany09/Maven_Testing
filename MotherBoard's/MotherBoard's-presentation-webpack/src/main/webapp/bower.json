@@ -1,0 +1,15 @@
+{
+  "name": "MotherBoard's",
+  "version": "v1",
+  "description": "MotherBoard's",
+  "main": "app/app.js",
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}

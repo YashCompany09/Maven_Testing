@@ -1,0 +1,4 @@
+Computers.client.local.App
+Computers.server.SimpleCDIService
+Computers.client.shared.Response
+Computers.client.shared.HelloMessage
